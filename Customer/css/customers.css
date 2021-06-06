@@ -1,0 +1,45 @@
+.nameikan{
+    margin-top: 50px;
+    color: #a12525;
+    margin-bottom: 20px;
+}
+.kdst{
+    background-color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+}
+.kdst2{
+    background-color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+}
+.kdst31{
+    padding-top: 20px;
+}
+.kdst32{
+    padding-bottom: 80px;
+}
+.hargaikan{
+    padding-top: 20px;
+}
+.belanaja {
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 30px 80px;
+    background-color: #a12525;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .belanaja :hover {
+    text-decoration: none;
+    background-color: #c07676;
+  }
+  .nameuser{
+      text-align: center;
+      font-size: 30px;
+      text-decoration: none ;
+      color: #a12525;
+  }
+  .userp{
+      text-align: center;
+  }
